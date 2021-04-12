@@ -1,0 +1,22 @@
+{
+  "name": "@barely-software/hello-npm",
+  "version": "1.0.0",
+  "description": "Hello NPM is a minimal example using github actions to publish an npm package to npmjs.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barely-software/hello-npm-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "daniel packard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barely-software/hello-npm-package/issues"
+  },
+  "homepage": "https://github.com/barely-software/hello-npm-package#readme"
+}
