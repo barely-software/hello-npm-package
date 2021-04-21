@@ -1,6 +1,6 @@
 {
   "name": "@barely-software/hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello NPM is a minimal example using github actions to publish an npm package to npmjs.org",
   "main": "index.js",
   "scripts": {
